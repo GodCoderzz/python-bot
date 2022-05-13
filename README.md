@@ -6,17 +6,24 @@ This python bot will help you to track the YouTube trendings within seconds :)
 
 This will make you to friendly with current trends!
 
-# 🛠  Skills
+## 🛠  Skills
 
  - Python
  - Powershell / Bash
  
-# 📷 Screenshots
+
+## 💻  Python modules used
+
+ - Selenium
+ - Pandas
+ 
+## 📷 Screenshots
 
 [Image 1](https://drive.google.com/file/d/1OVQvjAmivSG0rQRBCSIsvueNsVXbQBpU/view?usp=sharing)
+
 [Image 2](https://drive.google.com/file/d/1vG36b2M4Cq_bn3f0_onm7ta0SRXaomSg/view?usp=sharing)
  
-# 🚀 Run Locally
+## 🚀 Run Locally
 
   
 
@@ -65,13 +72,13 @@ Start the bot
 python .\automating.py
 
 ```
-#  💁‍♂️ Support
+##  💁‍♂️ Support
 
   
 
 For support, email godcoderzz@gmail.com or join us on [replit](https://replit.com/@GodCoderz1)
 
-#  📜 License
+##  📜 License
 
   
 
